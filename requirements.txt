@@ -1,0 +1,11 @@
+flask
+pandas
+memory_profiler
+geopy
+tqdm
+folium
+imgkit
+matplotlib
+numpy
+seaborn
+scikit-learn==1.4.0
